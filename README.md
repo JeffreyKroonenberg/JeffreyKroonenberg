@@ -21,9 +21,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="40" alt="typescript logo"  />
+  <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="CSS logo"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="40" alt="HTML logo"/>
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" height="40" alt="HTML logo"/>
 </div>
 
 ###
