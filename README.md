@@ -23,6 +23,7 @@
 <div align="left">
   <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="CSS logo"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" height="40" alt="HTML logo"/>
+  <img src="https://img.icons8.com/nolan/64/lua-language--v1.png" height="40" alt="Lua logo"/>
 </div>
 
 ###
