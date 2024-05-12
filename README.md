@@ -33,4 +33,5 @@
 
 <div align="left">
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" height="40" alt="Ubuntu logo"/>
+  <img src="https://img.icons8.com/color/48/windows-10.png" height="40" alt="windows logo"/>
 </div>
